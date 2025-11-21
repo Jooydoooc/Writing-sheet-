@@ -8,7 +8,6 @@
       "src": "api/submit.js",
       "use": "@vercel/node"
     }
-  ],
   "routes": [
     {
       "src": "/api/submit",
